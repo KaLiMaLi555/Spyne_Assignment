@@ -1,0 +1,8 @@
+**/__pycache__
+**/data
+**/.DS_store
+**/.ipynb_checkpoints
+**/.vscode
+**/.idea
+**/.ropeproject
+**/results
