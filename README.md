@@ -23,15 +23,14 @@ python main.py --data_folder <path_to_data_folder> --image <image_id>
 # To run on all images
 python main.py --data_folder <path_to_data_folder> --all
 ```
+The results will be saved inside a `results` folder in the same directory.
 
 ## Project 2: Car Image Classification
 
 > 1. Installing checkpoints
 
+Make a `checkpoints` folder in project_2.
 Download the checkpoints from [Google Drive](https://drive.google.com/drive/folders/1UWBtv7VpzSjhGDcKdttjS83KsmfxuQhD?usp=sharing)
-```
-placeholder
-```
 
 > 2. Usage Instructions
 ```bash
